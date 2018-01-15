@@ -6,7 +6,7 @@ countdown <- function(from)
     from <- from - 1
     print(from)
   }
-  return true
+  return(TRUE)
 }
 
 countdown(5)
